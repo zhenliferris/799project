@@ -1,0 +1,39 @@
+U.S. Department of Transportation (DOT) Data Portal:
+
+The DOT maintains its own data portal where you can access a variety of datasets related to transportation, safety, infrastructure, and more.
+U.S. DOT Data Portal
+Federal Highway Administration (FHWA):
+
+The FHWA provides data related to highway infrastructure, traffic volumes, and safety.
+FHWA Data
+National Highway Traffic Safety Administration (NHTSA):
+
+NHTSA offers datasets related to vehicle safety, crash data, and more.
+NHTSA Data
+Federal Aviation Administration (FAA):
+
+FAA provides data on aviation safety, airport information, flight delays, and other aviation-related topics.
+FAA Data
+Bureau of Transportation Statistics (BTS):
+
+BTS offers a comprehensive collection of transportation statistics, including data on freight, passenger travel, and transportation economics.
+BTS Data
+Data.gov:
+
+Data.gov is a centralized platform that offers access to a wide range of datasets from various U.S. government agencies, including transportation data.
+Data.gov Transportation
+State and Local DOT Websites:
+
+Many state and local DOTs also publish datasets on their websites, including traffic counts, road conditions, and infrastructure projects. Check the websites of specific state or city DOTs for additional data.
+OpenStreetMap:
+
+OpenStreetMap provides geospatial data that can be useful for transportation projects, including road networks and infrastructure information.
+OpenStreetMap
+Kaggle:
+
+Kaggle is a platform for data science competitions and also hosts a variety of public datasets, including those related to transportation.
+Kaggle Datasets
+Transportation Research Board (TRB):
+
+TRB provides access to research publications and datasets related to various transportation topics.
+TRB Publications
