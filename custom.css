@@ -1,0 +1,21 @@
+.remark-slide-content {
+  font-size: 0.5em; /* Adjust this value to change the font size */
+}
+
+/* Optionally, you can define different sizes for headers */
+.remark-slide-content h1 {
+  font-size: 1.5em;
+}
+
+.remark-slide-content h2 {
+  font-size: 1.3em;
+}
+
+.remark-slide-content h3 {
+  font-size: 1.1em;
+}
+
+/* Additional customization for paragraph text */
+.remark-slide-content p {
+  font-size: 0.5em;
+}
